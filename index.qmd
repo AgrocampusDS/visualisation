@@ -1,0 +1,7 @@
+---
+title: "Objectifs"
+---
+
+Dans le cadre du module de visualisation de données, les étudiants en spécialisation science des données de l'Institut Agro et les étudiants du Parcours Science des données pour la biologie  du Master Mathématiques appliquées, statistique (niversité de Rennes 1, Université Rennes 2, Institut Agro, ENSAI et INSA Rennes), les étudiants doivent proposer un résumé en trois graphiques d'un jeu de données de leur choix.
+
+Ce site rassemble les productions des différentes promotions.

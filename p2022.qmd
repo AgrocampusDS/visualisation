@@ -1,0 +1,25 @@
+---
+title: "2022-2023"
+---
+
+Voici les liens vers les projets remis cette année par les étudiants
+
+* [La corruption par Emilie COttard et Manon Lefeuvre](https://agrocampusds.github.io/visualisation-emilie-manon/flexdashboard.html)
+
+* [Le tour de France par Najia et Léane](https://agrocampusds.github.io/visualisation-tdf/flexdashboard.html)
+
+* [L'espérance de vie par Sofia Chemolli  et Amélie Rivet](https://agrocampusds.github.io/visualisation-sofia-amelie/flexdashboard.html)
+
+* [l'Indice de développement humain par Yannis BARBA et Laurine KOMENDANCZYK](https://agrocampusds.github.io/visualisation-laurine-yannis/flexdashboard.html)
+
+* [Evolution de l'obésité par Marion Gundelwein & Laura Paper](https://agrocampusds.github.io/visualisation-laura-marion/flexdashboard.html)
+
+* [Portrait biogéographique des oiseaux Armelle Lajeunesse et Marion Moussay](https://agrocampusds.github.io/visualisation-birds/flexdashboard.html)
+
+* [Victoria, Elise et Nolwenn](https://agrocampusds.github.io/visualisation-nolwennvictoriaelise/flexdashboard.html)
+
+* [Caractérisation du terrorisme par Marie Joigneau, Alxeandre Homo et Françoise le Moal](https://agrocampusds.github.io/visualisation-mariealexfrancoise/flexdashboard.html)
+
+* [Les sésimes dans le monde par André Niels, Floraine Cornué et Marion Corbera](https://agrocampusds.github.io/visualisation-earthsquake/flexdashboard.html)
+
+* [Les attaques de requins par Laurence et Shaimma](https://agrocampusds.github.io/visualisation-shark/flexdashboard.html)
