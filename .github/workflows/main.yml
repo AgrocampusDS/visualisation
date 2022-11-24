@@ -10,7 +10,8 @@ jobs:
     container: mpetienne/r-dataviz_template:0.5
     
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
       
       - name: "Install Quarto"
         uses: quarto-dev/quarto-actions/install-quarto@v1
